@@ -40,22 +40,13 @@ This notebook provides a step-by-step workflow for **searching employee salary d
 
 ### Sample Output
 
-```python
+table,
 {'Name': 'PATRICK GARDNER', 'Salary': 326373.19}
 
-
 ## Notes
 
 - Be sure that `Total.csv.zip` is present in the same folder as the notebook.
 - The script will automatically clean up temporary files after zipping.
-- You can run this entire workflow inside **Jupyter Notebook** or **JupyterLab**.lary': 326373.19}
-
-## Notes
-
-- Be sure that `Total.csv.zip` is present in the same folder as the notebook.
-- The script will automatically clean up temporary files after zipping.
-- You can run this entire workflow inside **Jupyter Notebook**, **JupyterLab**, or export for use in **RStudio**.
+- You can run this entire workflow inside **Jupyter Notebook** or **JupyterLab**.
 
 ---
-
-## 📁 File Structure
